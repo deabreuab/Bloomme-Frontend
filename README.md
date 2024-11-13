@@ -9,6 +9,7 @@
 - **TypeScript**: JavaScript superset for type safety.
 - **Tailwind CSS**: Utility-first CSS framework for efficient, responsive design.
 - **Figma**: Tool used for UI/UX design and prototyping.
+  
 
 ## Getting Started
 
