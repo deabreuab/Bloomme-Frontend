@@ -74,3 +74,5 @@ We would like to thank:
 - Our team members, mentors, and supporters who have contributed their time, knowledge, and encouragement to make Bloomme a reality.
 
 With Bloomme, we’re building more than just an app; we’re empowering the next generation with the knowledge and support they need to make informed decisions about their health and well-being. :blush:❤️
+
+<iframe src="https://giphy.com/embed/zOMHL81qEGDjNY2o71" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/transparent-zOMHL81qEGDjNY2o71"></a></p>
