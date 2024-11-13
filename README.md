@@ -64,6 +64,16 @@ We welcome contributions from developers interested in helping grow Bloomme! To 
 2. **Make your changes** - Modify the code as needed to add features, improve functionality, or fix issues.
 3. **Submit a pull request** - Once you're satisfied with your changes, open a pull request to propose your updates to the main repository.
 
+   **A special mention to the work done from the backend API and BD we used in the project**
+
+Main collaborators:
+- [Aylin Santa Cruz Vargas](https://github.com/AnthuA25)
+- [Diana Vilchez](https://github.com/DianaVilchez)
+- [Antone Gonzales](https://github.com/AGonzalesHuamani)
+
+You can check the repository of the backend of this application here 
+[Backend repository](https://github.com/DianaVilchez/Bloomme-Backend)
+
 Let's work together to create a platform that truly makes a difference!
 
 ## Acknowledgments
