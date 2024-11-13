@@ -75,4 +75,4 @@ We would like to thank:
 
 With Bloomme, we’re building more than just an app; we’re empowering the next generation with the knowledge and support they need to make informed decisions about their health and well-being. :blush:❤️
 
-![]<iframe src="https://giphy.com/embed/zOMHL81qEGDjNY2o71" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/transparent-zOMHL81qEGDjNY2o71"></a></p>
+![bloomme]<https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWdoMDFyaG9qN3hkYzRmcjlwYzh6Nnh2Y3RtY2x6c2FkMXlnbzJiOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zOMHL81qEGDjNY2o71/giphy-downsized-large.gif>
